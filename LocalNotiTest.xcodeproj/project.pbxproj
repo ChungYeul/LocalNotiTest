@@ -21,6 +21,7 @@
 		005CDEFF188CBCE8001A18E3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 005CDEE1188CBCE8001A18E3 /* UIKit.framework */; };
 		005CDF07188CBCE8001A18E3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 005CDF05188CBCE8001A18E3 /* InfoPlist.strings */; };
 		005CDF09188CBCE8001A18E3 /* LocalNotiTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 005CDF08188CBCE8001A18E3 /* LocalNotiTestTests.m */; };
+		005CDF13188CBEEC001A18E3 /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = 005CDF12188CBEEC001A18E3 /* image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		005CDF04188CBCE8001A18E3 /* LocalNotiTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LocalNotiTestTests-Info.plist"; sourceTree = "<group>"; };
 		005CDF06188CBCE8001A18E3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		005CDF08188CBCE8001A18E3 /* LocalNotiTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocalNotiTestTests.m; sourceTree = "<group>"; };
+		005CDF12188CBEEC001A18E3 /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		005CDEE3188CBCE8001A18E3 /* LocalNotiTest */ = {
 			isa = PBXGroup;
 			children = (
+				005CDF12188CBEEC001A18E3 /* image.png */,
 				005CDEEC188CBCE8001A18E3 /* AppDelegate.h */,
 				005CDEED188CBCE8001A18E3 /* AppDelegate.m */,
 				005CDEEF188CBCE8001A18E3 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				005CDEF6188CBCE8001A18E3 /* Images.xcassets in Resources */,
+				005CDF13188CBEEC001A18E3 /* image.png in Resources */,
 				005CDEE8188CBCE8001A18E3 /* InfoPlist.strings in Resources */,
 				005CDEF1188CBCE8001A18E3 /* Main.storyboard in Resources */,
 			);
